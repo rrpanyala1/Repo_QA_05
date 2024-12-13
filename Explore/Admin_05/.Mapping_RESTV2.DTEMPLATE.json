@@ -17,13 +17,13 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-12-13T20:31:45.980Z",
+  "updateTime" : "2024-12-13T20:34:09.337Z",
   "objectRefs" : [ {
     "id" : "5ZlDtEOkGNUf69R5klsmyD",
     "name" : "OpenWeather_RESTv2_Connection",
